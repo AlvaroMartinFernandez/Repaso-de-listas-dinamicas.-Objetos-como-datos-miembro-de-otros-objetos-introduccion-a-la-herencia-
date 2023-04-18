@@ -1,0 +1,7 @@
+﻿  Practica7.cpp
+C:\Users\alvaro\OneDrive - Universidad de Alcala\UNIVERSIDAD\Programacion\Practica7\Practica7\MemoryManager.h(112,58): warning C5043: "operator new": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime_new.h(53): message : vea la declaración de 'operator new'
+C:\Users\alvaro\OneDrive - Universidad de Alcala\UNIVERSIDAD\Programacion\Practica7\Practica7\MemoryManager.h(113,60): warning C5043: "operator new[]": la especificación de la excepción no coincide con la declaración anterior.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\vcruntime_new.h(64): message : vea la declaración de 'operator new[]'
+MemoryManager-vc2019-d.obj : warning LNK4204: falta información de depuración de 'C:\Users\alvaro\OneDrive - Universidad de Alcala\UNIVERSIDAD\Programacion\Practica7\Practica7\Debug\vc142.pdb' para hacer referencia al módulo; se vinculará el objeto sin tener en cuenta información de depuración
+  Practica7.vcxproj -> C:\Users\alvaro\OneDrive - Universidad de Alcala\UNIVERSIDAD\Programacion\Practica7\Practica7\Debug\Practica7.exe
